@@ -2,8 +2,9 @@ main()
 {
 	printf("with searching come loss\n");
 	printf("and the presence of absence\n");
-	printf("Website not found!\n");
+	printf("Node not found!\n");
 }
+
 feature1()
 {
 	printf("No available space\n");
